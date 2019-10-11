@@ -11,7 +11,8 @@
 ### Third Class
 - [Lecture - Convolutional Neural Networks 1](https://mysnu-my.sharepoint.com/:b:/g/personal/blackfoot_seoul_ac_kr/ETz9uaskUHBKiKUyxFk2b48BEsejUfDciPLYGXBUipp6fA?e=0sS79W)
 - [Lecture - Convolutional Neural Networks 2](https://mysnu-my.sharepoint.com/:b:/g/personal/blackfoot_seoul_ac_kr/EQbk7z_8q8hIsiDImNHFJLYB_T5RkyIzH8Mj7-KBrHMZkA?e=r4WyOr)
-- [Tutorial - Convolutional Neural Networks](https://mysnu-my.sharepoint.com/:b:/g/personal/blackfoot_seoul_ac_kr/ESi06xRGkppJhookanl8pC8BWh-qhWMTrYhWwKU-KQHeyw?e=uRuZEu)
+- [Tutorial - Convolutional Neural Networks(MNIST)](https://mysnu-my.sharepoint.com/:b:/g/personal/blackfoot_seoul_ac_kr/ESi06xRGkppJhookanl8pC8BWh-qhWMTrYhWwKU-KQHeyw?e=uRuZEu)
+- [Tutorial - Convolutional Neural Networks(CIFAR10)](https://mysnu-my.sharepoint.com/:b:/g/personal/blackfoot_seoul_ac_kr/EXjVnUGynA1EhOfkuDuS5LoBWHsDGj4xjwM259JWbuP2WA?e=ZZmtAF)
 
 ### Fourth Class
 - [Lecture - Recurrent Neural Networks](https://mysnu-my.sharepoint.com/:b:/g/personal/blackfoot_seoul_ac_kr/EVrxTDoIIGpNlWx0YqEkF5sBJ8Sns_uNIK1llLJifhEVyw?e=HjhIZl)
